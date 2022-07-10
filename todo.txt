@@ -4,5 +4,7 @@ to do::
 3) c
 4) d
 
+5) new branch
+6) branch name = test
 
 
